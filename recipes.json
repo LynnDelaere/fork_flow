@@ -728,7 +728,7 @@
             ]
         },
         {
-            "name": "Gevulde paprika met quinoa en avocado",
+            "name": "Gevulde paprika met quinoa en wortel",
             "type": "Dinner",
             "ingredients": [
                 {
@@ -742,8 +742,8 @@
                     "unit": "g"
                 },
                 {
-                    "name": "Avocado",
-                    "amount": "0.5",
+                    "name": "Wortel",
+                    "amount": "1",
                     "unit": "stuk"
                 },
                 {
@@ -756,7 +756,7 @@
                 "Kook de quinoa gaar.",
                 "Snijd de bovenkant van de paprika en verwijder de zaadlijsten.",
                 "Snijd de avocado in kleine blokjes.",
-                "Meng quinoa, avocado en fijngesneden rode ui.",
+                "Meng quinoa, wortel en fijngesneden rode ui.",
                 "Vul de paprika en bak 20 minuten in een voorverwarmde oven op 180°C."
             ]
         }
