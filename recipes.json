@@ -766,8 +766,8 @@
                     "name": "Avocado",
                     "amount": "0.5",
                     "unit": "stuk"
-                }
-        {
+                },
+                {
                     "name": "Rode ui",
                     "amount": "0.25",
                     "unit": "stuk"
