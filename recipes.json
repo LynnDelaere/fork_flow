@@ -6,27 +6,27 @@
             "ingredients": [
                 {
                     "name": "Havermout",
-                    "amount": "40",
+                    "amount": 40,
                     "unit": "g"
                 },
                 {
                     "name": "Appel",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "stuk"
                 },
                 {
                     "name": "Kaneelpoeder",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "theelepel"
                 },
                 {
                     "name": "Walnoten",
-                    "amount": "25",
+                    "amount": 25,
                     "unit": "g"
                 },
                 {
                     "name": "Melk",
-                    "amount": "200",
+                    "amount": 200,
                     "unit": "ml"
                 }
             ],
@@ -44,22 +44,22 @@
             "ingredients": [
                 {
                     "name": "Griekse yoghurt",
-                    "amount": "150",
+                    "amount": 150,
                     "unit": "g"
                 },
                 {
                     "name": "Granola",
-                    "amount": "30",
+                    "amount": 40,
                     "unit": "g"
                 },
                 {
                     "name": "Blauwe bessen",
-                    "amount": "25",
+                    "amount": 25,
                     "unit": "g"
                 },
                 {
                     "name": "Chiazaad",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "eetlepel"
                 }
             ],
@@ -71,32 +71,32 @@
             ]
         },
         {
-            "name": "Advocado toast met roerei en tomaat",
+            "name": "Avocado toast met roerei en tomaat",
             "type": "Breakfast",
             "ingredients": [
                 {
                     "name": "Avocado",
-                    "amount": "0.5",
+                    "amount": 0.5,
                     "unit": "stuk"
                 },
                 {
                     "name": "Volkorenbrood",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "stuk"
                 },
                 {
                     "name": "Tomaat",
-                    "amount": "1",
+                    "amount": 4,
                     "unit": "stuk"
                 },
                 {
                     "name": "Ei",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "stuk"
                 },
                 {
                     "name": "Olijfolie",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "theelepel"
                 }
             ],
@@ -114,22 +114,22 @@
             "ingredients": [
                 {
                     "name": "Banaan",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "stuk"
                 },
                 {
                     "name": "Spinazie",
-                    "amount": "30",
+                    "amount": 30,
                     "unit": "g"
                 },
                 {
                     "name": "Pindakaas",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "eetlepel"
                 },
                 {
                     "name": "Melk",
-                    "amount": "200",
+                    "amount": 200,
                     "unit": "ml"
                 }
             ],
@@ -144,17 +144,17 @@
             "ingredients": [
                 {
                     "name": "Volkoren wrap",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "stuk"
                 },
                 {
                     "name": "Cottage cheese",
-                    "amount": "2",
-                    "unit": "eetlepels"
+                    "amount": 50,
+                    "unit": "g"
                 },
                 {
                     "name": "Komkommer",
-                    "amount": "0.5",
+                    "amount": 0.5,
                     "unit": "stuk"
                 }
             ],
@@ -170,22 +170,22 @@
             "ingredients": [
                 {
                     "name": "Zoete aardappel",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "stuk"
                 },
                 {
                     "name": "Avocado",
-                    "amount": "0.5",
+                    "amount": 0.5,
                     "unit": "stuk"
                 },
                 {
                     "name": "Ei",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "stuk"
                 },
                 {
                     "name": "Olijfolie",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "theelepel"
                 }
             ],
@@ -203,22 +203,22 @@
             "ingredients": [
                 {
                     "name": "Cottage cheese",
-                    "amount": "150",
+                    "amount": 150,
                     "unit": "g"
                 },
                 {
                     "name": "Peer",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "stuk"
                 },
                 {
                     "name": "Walnoten",
-                    "amount": "15",
+                    "amount": 15,
                     "unit": "g"
                 },
                 {
                     "name": "Honing",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "theelepel"
                 }
             ],
@@ -235,27 +235,27 @@
             "ingredients": [
                 {
                     "name": "Kipfilet",
-                    "amount": "100",
+                    "amount": 100,
                     "unit": "g"
                 },
                 {
                     "name": "Avocado",
-                    "amount": "0.5",
+                    "amount": 0.5,
                     "unit": "stuk"
                 },
                 {
                     "name": "Komkommer",
-                    "amount": "0.5",
+                    "amount": 0.5,
                     "unit": "stuk"
                 },
                 {
                     "name": "Gemengde sla",
-                    "amount": "50",
+                    "amount": 50,
                     "unit": "g"
                 },
                 {
                     "name": "Olijfolie",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "eetlepel"
                 }
             ],
@@ -272,27 +272,27 @@
             "ingredients": [
                 {
                     "name": "Volkorenbrood",
-                    "amount": "2",
+                    "amount": 2,
                     "unit": "sneden"
                 },
                 {
                     "name": "Geitenkaas",
-                    "amount": "40",
+                    "amount": 40,
                     "unit": "g"
                 },
                 {
                     "name": "Honing",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "theelepel"
                 },
                 {
                     "name": "Walnoten",
-                    "amount": "10",
+                    "amount": 10,
                     "unit": "g"
                 },
                 {
                     "name": "Rucola",
-                    "amount": "20",
+                    "amount": 20,
                     "unit": "g"
                 }
             ],
@@ -308,27 +308,27 @@
             "ingredients": [
                 {
                     "name": "Zoete aardappel",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "stuk"
                 },
                 {
                     "name": "Quinoa",
-                    "amount": "50",
+                    "amount": 50,
                     "unit": "g"
                 },
                 {
                     "name": "Komkommer",
-                    "amount": "0.5",
+                    "amount": 0.5,
                     "unit": "stuk"
                 },
                 {
                     "name": "Rode ui",
-                    "amount": "0.25",
+                    "amount": 0.25,
                     "unit": "stuk"
                 },
                 {
                     "name": "Citroensap",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "eetlepel"
                 }
             ],
@@ -345,22 +345,22 @@
             "ingredients": [
                 {
                     "name": "Volkoren wrap",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "stuk"
                 },
                 {
                     "name": "Hummus",
-                    "amount": "2",
-                    "unit": "eetlepels"
+                    "amount": 40,
+                    "unit": "g"
                 },
                 {
                     "name": "Wortel",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "stuk"
                 },
                 {
                     "name": "Spinazie",
-                    "amount": "30",
+                    "amount": 30,
                     "unit": "g"
                 }
             ],
@@ -376,27 +376,27 @@
             "ingredients": [
                 {
                     "name": "Volkoren pasta",
-                    "amount": "60",
+                    "amount": 60,
                     "unit": "g"
                 },
                 {
-                    "name": "Tonijn (in water, uitgelekt)",
-                    "amount": "70",
+                    "name": "Tonijn",
+                    "amount": 70,
                     "unit": "g"
                 },
                 {
                     "name": "Broccoli",
-                    "amount": "100",
+                    "amount": 100,
                     "unit": "g"
                 },
                 {
                     "name": "Olijfolie",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "eetlepel"
                 },
                 {
                     "name": "Citroensap",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "eetlepel"
                 }
             ],
@@ -412,22 +412,22 @@
             "ingredients": [
                 {
                     "name": "Ei",
-                    "amount": "2",
+                    "amount": 2,
                     "unit": "stuk"
                 },
                 {
                     "name": "Tomaat",
-                    "amount": "1",
+                    "amount": 4,
                     "unit": "stuk"
                 },
                 {
                     "name": "Spinazie",
-                    "amount": "30",
+                    "amount": 30,
                     "unit": "g"
                 },
                 {
                     "name": "Olijfolie",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "theelepel"
                 }
             ],
@@ -444,27 +444,27 @@
             "ingredients": [
                 {
                     "name": "Avocado",
-                    "amount": "0.5",
+                    "amount": 0.5,
                     "unit": "stuk"
                 },
                 {
-                    "name": "Edamame bonen (gekookt)",
-                    "amount": "50",
+                    "name": "Edamame bonen",
+                    "amount": 50,
                     "unit": "g"
                 },
                 {
                     "name": "Tomaat",
-                    "amount": "1",
+                    "amount": 4,
                     "unit": "stuk"
                 },
                 {
                     "name": "Rucola",
-                    "amount": "30",
+                    "amount": 30,
                     "unit": "g"
                 },
                 {
                     "name": "Citroensap",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "eetlepel"
                 }
             ],
@@ -480,32 +480,32 @@
             "ingredients": [
                 {
                     "name": "Zalmfilet",
-                    "amount": "120",
+                    "amount": 120,
                     "unit": "g"
                 },
                 {
                     "name": "Broccoli",
-                    "amount": "100",
+                    "amount": 100,
                     "unit": "g"
                 },
                 {
                     "name": "Zoete aardappel",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "stuk"
                 },
                 {
                     "name": "Olijfolie",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "eetlepel"
                 },
                 {
                     "name": "Citroensap",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "eetlepel"
                 },
                 {
                     "name": "Peterselie (fijngehakt)",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "eetlepel"
                 }
             ],
@@ -523,32 +523,32 @@
             "ingredients": [
                 {
                     "name": "Kipfilet",
-                    "amount": "100",
+                    "amount": 100,
                     "unit": "g"
                 },
                 {
                     "name": "Bloemkool",
-                    "amount": "150",
+                    "amount": 150,
                     "unit": "g"
                 },
                 {
                     "name": "Wortel",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "stuk"
                 },
                 {
                     "name": "Knoflook",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "teentje"
                 },
                 {
                     "name": "Olijfolie",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "eetlepel"
                 },
                 {
                     "name": "Paprikapoeder",
-                    "amount": "0.5",
+                    "amount": 0.5,
                     "unit": "theelepel"
                 }
             ],
@@ -565,32 +565,32 @@
             "ingredients": [
                 {
                     "name": "Ei",
-                    "amount": "2",
+                    "amount": 2,
                     "unit": "stuk"
                 },
                 {
-                    "name": "Basmati rijst (gekookt en afgekoeld)",
-                    "amount": "120",
+                    "name": "Basmati rijst",
+                    "amount": 120,
                     "unit": "g"
                 },
                 {
                     "name": "Wortel",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "stuk"
                 },
                 {
                     "name": "Paprika",
-                    "amount": "0.5",
+                    "amount": 0.5,
                     "unit": "stuk"
                 },
                 {
                     "name": "Sojasaus",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "eetlepel"
                 },
                 {
                     "name": "Lente-ui",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "stuk"
                 }
             ],
@@ -608,32 +608,32 @@
             "ingredients": [
                 {
                     "name": "Volkoren pasta",
-                    "amount": "60",
+                    "amount": 60,
                     "unit": "g"
                 },
                 {
-                    "name": "Tonijn (in water, uitgelekt)",
-                    "amount": "70",
+                    "name": "Tonijn",
+                    "amount": 70,
                     "unit": "g"
                 },
                 {
                     "name": "Courgette",
-                    "amount": "0.5",
+                    "amount": 0.5,
                     "unit": "stuk"
                 },
                 {
                     "name": "Tomaat",
-                    "amount": "1",
+                    "amount": 4,
                     "unit": "stuk"
                 },
                 {
                     "name": "Knoflook",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "teentje"
                 },
                 {
                     "name": "Olijfolie",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "eetlepel"
                 }
             ],
@@ -650,32 +650,32 @@
             "ingredients": [
                 {
                     "name": "Rundsburger",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "stuk"
                 },
                 {
                     "name": "Paprika",
-                    "amount": "0.5",
+                    "amount": 0.5,
                     "unit": "stuk"
                 },
                 {
                     "name": "Courgette",
-                    "amount": "0.5",
+                    "amount": 0.5,
                     "unit": "stuk"
                 },
                 {
-                    "name": "Ui",
-                    "amount": "0.5",
+                    "name": "Rode ui",
+                    "amount": 0.5,
                     "unit": "stuk"
                 },
                 {
                     "name": "Olijfolie",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "eetlepel"
                 },
                 {
-                    "name": "Volkoren broodje",
-                    "amount": "1",
+                    "name": "Volkorenbrood",
+                    "amount": 2,
                     "unit": "stuk"
                 }
             ],
@@ -691,32 +691,32 @@
             "ingredients": [
                 {
                     "name": "Volkoren noedels",
-                    "amount": "60",
+                    "amount": 60,
                     "unit": "g"
                 },
                 {
                     "name": "Kipfilet",
-                    "amount": "100",
+                    "amount": 100,
                     "unit": "g"
                 },
                 {
                     "name": "Broccoli",
-                    "amount": "80",
+                    "amount": 80,
                     "unit": "g"
                 },
                 {
                     "name": "Sojasaus",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "eetlepel"
                 },
                 {
                     "name": "Sesamzaad",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "theelepel"
                 },
                 {
                     "name": "Lente-ui",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "stuk"
                 }
             ],
@@ -732,23 +732,23 @@
             "type": "Dinner",
             "ingredients": [
                 {
-                    "name": "Rode paprika",
-                    "amount": "1",
+                    "name": "Paprika",
+                    "amount": 1,
                     "unit": "stuk"
                 },
                 {
                     "name": "Quinoa",
-                    "amount": "50",
+                    "amount": 50,
                     "unit": "g"
                 },
                 {
                     "name": "Wortel",
-                    "amount": "1",
+                    "amount": 1,
                     "unit": "stuk"
                 },
                 {
                     "name": "Rode ui",
-                    "amount": "0.25",
+                    "amount": 0.25,
                     "unit": "stuk"
                 }
             ],
